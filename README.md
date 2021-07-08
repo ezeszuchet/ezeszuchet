@@ -1,6 +1,6 @@
 ### Hi there. I'm Ezequiel Szuchet 👋
 
-### 💻 Full stack developer jr ☕ coffee lover
+### 💻 Jr full stack developer ☕ coffee lover
 
 - 🔭 I’m currently working on a coffe ecommerce
 - 🌱 I’m currently learning about MERN stack
