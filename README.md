@@ -1,12 +1,6 @@
 ### Hi there. I'm Ezequiel Szuchet 👋
 
-### 💻 Jr full stack developer ☕ coffee lover
-
-- 🔭 I’m currently working on a coffe ecommerce
-- 🌱 I’m currently learning about MERN stack
-- 😄 Pronouns: 'he/him'
-- ⚡ Fun fact: I love coffee but... without milk
-- 👨🏽‍💻 Sometimes I play with unity to learn more about game development
+### 💻 Software developer ☕ coffee lover
 
 ---
 
